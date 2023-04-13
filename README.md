@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Alexey </h1>
+<h3 align="center">Computer science student and frontend developer</h3>
 
-<!--
-**Pinchedmon/Pinchedmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on React-Weather-Project
+- 📫 How to reach me: temnikovalx@icloud.com
 
-Here are some ideas to get you started:
+<h3>Roadmap</h3>
+Room-Chat
+stack: react, ts, express, node js, redux toolkit, socket io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Pagination
+- Responsive
+- Fix Bugs
